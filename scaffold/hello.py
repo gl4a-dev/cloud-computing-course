@@ -1,5 +1,8 @@
-def add(a, b):
-    return a + b
+def toyou(x):
+    return f"hi {x}"
 
+def add(x):
+    return x + 1
 
-print(f"Sum of {1} and {2} ir equal {add(1, 2)}")
+def subtract(x):
+    return x - 1
